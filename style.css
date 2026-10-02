@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    text-align: ;
+    padding: 10px 40px 10px 40px;
+    margin: 20px 500px 50px 500px;
+    color: black;
+    border: 1px solid red;
+    border-radius: 10px;
+    background: yellowgreen;
+}
+
+input {
+    background: ;
+    margin-top: 10px;
+    border: 1px solid gray;
+    padding: 5px;
+    padding-right: 50px;
+    border-radius: 5px;
+}
+
+.reset {
+    margin-left: 7px;
+    margin-right: 7px;
+    background: red;
+    color: white;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+
+.submit {
+    margin-left: 7px;
+    margin-right: 7px;
+    background: brown;
+    color: white;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+
+
+
+
+
